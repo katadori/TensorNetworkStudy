@@ -11,6 +11,10 @@
 
 - Julia, Jupyter Notebook
 
+## Files
+
+- *.ipynb がメインのファイルです．
+- 章ごと，あるいは節ごとにファイルを分割する予定です．
 
 ## Notice!
 
